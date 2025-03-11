@@ -3,8 +3,8 @@ function Documental() {
  
     return (
       <>
-       <h3>Ella es muy araganda, se levanta tarde, nose baña, 
-        no sabe cocinar, es hombreriego, y es baga 😂🤣
+       <h3>El EDA se utiliza principalmente para ver qué pueden revelar los datos más allá de 
+        la tarea de modelado formal o prueba de hipótesis y proporciona una mejor ...
 
 </h3>
       </>
