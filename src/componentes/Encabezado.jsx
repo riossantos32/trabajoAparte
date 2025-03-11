@@ -4,7 +4,7 @@ function Encabezado() {
  
     return (
       <>
-       <h2>Documental</h2>
+       <h2>La vida de la soliex</h2>
       </>
     )
   }
