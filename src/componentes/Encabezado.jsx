@@ -4,7 +4,8 @@ function Encabezado() {
  
     return (
       <>
-       <h2>La vida de la soliex</h2>
+       <h2>analisis exploratorio de datos</h2>
+       
       </>
     )
   }
